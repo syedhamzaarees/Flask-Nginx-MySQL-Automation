@@ -2,6 +2,7 @@ version: '3.8'
 
 services:
   flask:
+    container_name: YOYO
     image: syedahmedarees/flask-app:v9 
     ports:
       - "5000:5000"
