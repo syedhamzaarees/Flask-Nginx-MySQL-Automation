@@ -3,7 +3,7 @@ version: '3.8'
 services:
   flask:
     container_name: YOYO
-    image: syedahmedarees/flask-app:v9 
+    image: syedahmedarees/21-oct-flask-app
     ports:
       - "5000:5000"
     depends_on:
