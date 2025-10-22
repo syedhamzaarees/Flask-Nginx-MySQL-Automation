@@ -3,7 +3,7 @@ version: '3.8'
 services:
   flask:
     container_name: flask-oct-app
-    image: syedahmedarees/janazauthao:jaldi
+    image: syedahmedarees/flask-app:latest
     ports:
       - "5000:5000"
     depends_on:
