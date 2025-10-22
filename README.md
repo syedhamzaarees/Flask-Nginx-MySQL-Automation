@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flask + Nginx + MySQL (Docker Compose)
 
 ## Overview
@@ -18,3 +19,7 @@ All services are containerized and orchestrated with **Docker Compose**.
 git clone https://github.com/syedhamzaarees/Flask-Nginx-MySQL-Docker-Compose.git
 cd Flask-Nginx-MySQL-Docker-Compose
 docker-compose up --build
+=======
+# Flask-Nginx-MySQL-Automation
+Flask-based web app containerized with Nginx and MySQL, fully automated via Jenkins and GitHub Webhook.
+>>>>>>> d20a2ee89bc2ebd1e1f33ff35639371b151ebb93
