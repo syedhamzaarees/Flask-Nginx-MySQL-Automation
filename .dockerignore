@@ -1,0 +1,5 @@
+.env
+data/mysql/db/#ib_*
+data/mysql/db/#innodb_redo
+data/mysql/db/#ib_*
+
